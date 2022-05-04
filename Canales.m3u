@@ -9,6 +9,12 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=5Q4ebvDq9UE4dw
 
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=9HeqggAJEXEW95s4ChfyYQ&expires=1651715011&ip=191.52.213.201
 
+#EXTINF:-1 group-title="Perú",CanalN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/197_.m3u8?token=I3Q8cpDyUh5Le6JaFuIQDw&expires=1651717020&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Perú",Willax
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/153_.m3u8?token=5AnKb8NVh7DNimfOHIAvqw&expires=1651717083&ip=191.52.213.201
+
 #EXTINF:-1 group-title="Entretenimiento",Space
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=qi2VbQ70C7fpxfDvmH0lsw&expires=1651715549&ip=191.52.213.201
 
@@ -18,3 +24,44 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=BGBlj1qF6zUVI
 #EXTINF:-1 group-title="Entretenimiento",TNTseries
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=Vy9S9ezwzy3lIXqVtJ6CQg&expires=1651716125&ip=191.52.213.201
 
+#EXTINF:-1 group-title="Entretenimiento",FOX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=EZ4o9DTBuJqKoynOfJHLAA&expires=1651716250&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Entretenimiento",FX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=UMvU-LAuZV98x-t-Hy-9sA&expires=1651716347&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Entretenimiento",CineMax
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/43_.m3u8?token=xKCwfKAyDQjAu-eByK5jPA&expires=1651716369&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Entretenimiento",CineCanal
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=2MnRPercWlKEXg4FtUibFQ&expires=1651716408&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Entretenimiento",SyFy
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=5Numf43zU1o163lKiKyTPA&expires=1651716444&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Entretenimiento",Golden
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=KL_nJxk4XQk8r7Afuv_29Q&expires=1651716494&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Entretenimiento",GoldenPlus
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=vX6kYN4V5VhdCiZti94gww&expires=1651716579&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Entretenimiento",GoldenEdge
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=VpE0cjM_8uywdcWe2j0z_A&expires=1651716614&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Entretenimiento",UniversalChannel
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=xNJ15qYVZKQPmjZ1W7aFYg&expires=1651716660&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Entretenimiento",AXN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=r9tusFzI6MDfLrt1RHfwmg&expires=1651716695&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Entretenimiento",AMC
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=MF0S9mF-b-Y-OpSLJNSY9Q&expires=1651716741&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Dibujos",DisneyChannel
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/107_.m3u8?token=7qNpyKXx8tMeREBhggcvbg&expires=1651716830&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Dibujos",DisneyXD
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/108_.m3u8?token=rsiEMl14kbnk5n4uLalckw&expires=1651716879&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Dibujos",DisneyJunior
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/109_.m3u8?token=siSkbwaw_-32GV6xi_Fx-A&expires=1651716952&ip=191.52.213.201
