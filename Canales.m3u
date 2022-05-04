@@ -14,3 +14,7 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=qi2VbQ70C7fpx
 
 #EXTINF:-1 group-title="Entretenimiento",WarnerChannel
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=BGBlj1qF6zUVI5r9ihIbkQ&expires=1651715869&ip=191.52.213.201
+
+#EXTINF:-1 group-title="Entretenimiento",TNTseries
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=Vy9S9ezwzy3lIXqVtJ6CQg&expires=1651716125&ip=191.52.213.201
+
