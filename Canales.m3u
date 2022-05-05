@@ -4,6 +4,10 @@
 #EXTINF:-1 group-title="Perú",AmericaTV04
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=1FlF1yrHcVozymv79HUIzg&expires=1651728028&ip=191.52.213.201
 
+#EXTINF:-1 group-title="Perú",AmericaTV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=zrq722Zvwo97w4p1u8m5Aw&expires=1651731661&ip=191.52.213.201
+
+
 #EXTINF:-1 group-title="Perú",Latina
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=9HeqggAJEXEW95s4ChfyYQ&expires=1651715011&ip=191.52.213.201
 
