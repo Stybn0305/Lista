@@ -5,7 +5,7 @@
 https://1011-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 group-title="Perú",AmericaTV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=zrq722Zvwo97w4p1u8m5Aw&expires=1651731661&ip=191.52.213.201
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=ml7s1MMLQKo7Y0NVqc170Q&expires=1651888725&ip=191.52.213.202
 
 #EXTINF:-1 group-title="Perú",AmericaTv
 http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
