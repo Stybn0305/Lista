@@ -59,22 +59,22 @@ http://168.197.196.98:8000/play/a03q/index.m3u8
 
 
 
+
+group-title="Entretenimiento"
+
+#EXTINF:-1group-title="Entretenimiento",CLARO CINEMA
+http://45.153.165.14:8081/play/a0cg/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento",AXN HD
 http://45.153.165.14:8081/play/a0pw/index.m3u8
-
 #EXTINF:-1 group-title="Entretenimiento",CineCanal
 http://181.176.148.142:8000/play/a022
-
 #EXTINF:-1 group-title="Entretenimiento",CineFamiliar
 http://181.176.148.142:8000/play/a023
-
 #EXTINF:-1 group-title="Entretenimiento",CineHispano
 http://181.176.148.142:8000/play/a024
-
 #EXTINF:-1 group-title="Entretenimiento",CinePremium
 http://181.176.148.142:8000/play/a025
 
-group-title="Entretenimiento"
 
 Fox
 
@@ -171,16 +171,44 @@ http://45.153.165.14:8081/play/a0de/index.m3u8
 
 group-title="Deportes"
 
-#EXTINF:-1group-title="Deportes",ESPN
+#EXTINF:-1group-title="Deportes",ESPN1
+http://45.153.165.14:8081/play/a0gl/index.m3u8
+#EXTINF:-1group-title="Deportes",ESPN 1
 http://45.236.174.195:2501/play/a00x
+#EXTINF:-1group-title="Deportes",ESPN HD
+http://45.153.165.14:8081/play/a0lq/index.m3u8
+#EXTINF:-1group-title="Deportes",ESPN +
+http://45.153.165.14:8081/play/a0e5/index.m3u8
+#EXTINF:-1group-title="Deportes",ESPN2
+http://45.153.165.14:8081/play/a0gm/index.m3u8
 #EXTINF:-1group-title="Deportes",ESPN 2
 http://45.236.174.195:2501/play/a00n
-#EXTINF:-1group-title="Deportes",ESPN 3
+#EXTINF:-1group-title="Deportes",ESPN 2 HD
+http://45.153.165.14:8081/play/a0lo/index.m3u8
+#EXTINF:-1group-title="Deportes",ESPN3
 http://45.236.174.195:2501/play/a02t
+#EXTINF:-1group-title="Deportes",ESPN 3
+http://45.153.165.14:8081/play/a0f8/index.m3u8
+#EXTINF:-1group-title="Deportes",ESPN 3 HD
+http://45.153.165.14:8081/play/a0lp/index.m3u8
+#EXTINF:-1group-title="Deportes",ESPN 4
+http://45.153.165.14:8081/play/a0h4/index.m3u8
+#EXTINF:-1group-title="Deportes",ESPN 4 HD
+http://45.153.165.14:8081/play/a0hm/index.m3u8
+#EXTINF:-1group-title="Deportes",EURO Channel
+http://45.153.165.14:8081/play/a0f4/index.m3u8
 #EXTINF:-1group-title="Deportes",Fox Sports
 http://45.236.174.195:2501/play/a00v
 #EXTINF:-1group-title="Deportes",Fox Sports 3
 http://45.236.174.195:2501/play/a01h
+#EXTINF:-1group-title="Deportes",TNT
+http://45.236.174.195:2501/play/a021
+#EXTINF:-1group-title="Deportes",TNT SPORTS 2
+http://45.236.174.195:2501/play/a03h
+#EXTINF:-1group-title="Deportes",TNT Sport 3
+http://45.236.174.195:2501/play/a010
+#EXTINF:-1group-title="Deportes",CLARO SPORTS
+http://45.153.165.14:8081/play/a0f7/index.m3u8
 
 group-title="Amazon Prime"
 
