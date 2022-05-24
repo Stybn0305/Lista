@@ -80,6 +80,19 @@ http://212.18.115.191:3549/play/a02j
 http://212.18.115.191:3549/play/a02k
 #EXTINF:-1group-title="Entretenimiento",Horror-Thriller 3
 http://212.18.115.191:3549/play/a02l
+#EXTINF:-1group-title="Entretenimiento",M+ SERIES 2 HD
+http://195.154.179.18:8000/play/a004
+#EXTINF:-1group-title="Entretenimiento",M+DEPORTES2
+http://195.154.179.18:8000/play/a00f
+#EXTINF:-1group-title="Entretenimiento",M. DRAMA HD
+http://195.154.179.18:8000/play/a007
+#EXTINF:-1group-title="Entretenimiento",M. ESTRENOS 2 HD
+http://195.154.179.18:8000/play/a009
+#EXTINF:-1group-title="Entretenimiento",M.COMEDIA HD
+http://195.154.179.18:8000/play/a00b
+#EXTINF:-1group-title="Entretenimiento",M.ESTRENOSHD
+http://195.154.179.18:8000/play/a008
+
 Fox
 
 #EXTINF:-1 group-title="Entretenimiento",FOX
