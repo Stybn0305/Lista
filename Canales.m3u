@@ -43,6 +43,25 @@ http://181.176.148.142:8000/play/a024
 #EXTINF:-1 group-title="Entretenimiento",CinePremium
 http://181.176.148.142:8000/play/a025
 
+#EXTINF:-1 group-title="Entretenimiento",FOX
+http://45.153.165.14:8081/play/a0gz/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX Action HD
+http://45.153.165.14:8081/play/a0kq/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX COMEDY
+http://45.153.165.14:8081/play/a0i9/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX Comedy HD
+http://45.153.165.14:8081/play/a0m1/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX Family HD
+http://45.153.165.14:8081/play/a0kr/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX HD
+http://45.153.165.14:8081/play/a0gq/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX LIFE
+http://45.153.165.14:8081/play/a0dk/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX Movies HD
+http://45.153.165.14:8081/play/a0kp/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX SERIES
+http://45.153.165.14:8081/play/a0hk/index.m3u8
+
 #EXTINF:-1 group-title="Dibujos",Disney
 http://45.153.165.14:8081/play/a0gy/index.m3u8
 #EXTINF:-1 group-title="Dibujos",Disney JR
