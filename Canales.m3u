@@ -74,8 +74,12 @@ http://181.176.148.142:8000/play/a023
 http://181.176.148.142:8000/play/a024
 #EXTINF:-1 group-title="Entretenimiento",CinePremium
 http://181.176.148.142:8000/play/a025
-
-
+#EXTINF:-1group-title="Entretenimiento",Horror-Thriller 1
+http://212.18.115.191:3549/play/a02j
+#EXTINF:-1group-title="Entretenimiento",Horror-Thriller 2
+http://212.18.115.191:3549/play/a02k
+#EXTINF:-1group-title="Entretenimiento",Horror-Thriller 3
+http://212.18.115.191:3549/play/a02l
 Fox
 
 #EXTINF:-1 group-title="Entretenimiento",FOX
