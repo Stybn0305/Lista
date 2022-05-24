@@ -4,6 +4,8 @@
 
 group-title="Perú"
 
+#EXTINF:-1group-title="Perú",America TV HD
+http://190.42.44.125:8000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="Perú",ATV HD
 http://181.65.187.164:48000/play/002a/index.m3u8
 #EXTINF:-1 group-title="Perú",Latina (Peru)
@@ -26,8 +28,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 http://181.65.187.164:48000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Perú",France 24 Español (576p)  (News)
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1group-title="Perú",America TV ARG
-http://190.128.128.58:5000/play/a01l
+
 
 group-title="Argentina"
 
@@ -37,7 +38,7 @@ http://168.197.196.98:8000/play/a01i/index.m3u8
 http://168.197.196.98:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Argentina",Cronica
 http://168.197.196.98:8000/play/a01t/index.m3u8
-group-title="Argentina",TV Publica HD
+#EXTINF:-1 group-title="Argentina",TV Publica HD
 http://168.197.196.98:8000/play/a03q/index.m3u8
 
 
