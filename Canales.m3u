@@ -10,12 +10,16 @@ http://181.65.187.164:48000/play/002a/index.m3u8
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1 group-title="Perú",WILLAX
 http://181.176.148.142:8000/play/a01y
+#EXTINF:-1group-title="Perú",Willax HD
+http://181.65.187.164:48000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Perú",AIPE
 https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 group-title="Perú",TV NOTICIAS 7.3
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 group-title="Perú",TVPE
 http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1group-title="Perú",TV Peru HD
+http://181.65.187.164:48000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Perú",Panamericana1
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1group-title="Perú",Panamericana HD
@@ -24,6 +28,8 @@ http://181.65.187.164:48000/play/a002/index.m3u8
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:-1group-title="Perú",America TV ARG
 http://190.128.128.58:5000/play/a01l
+
+
 
 
 
