@@ -21,7 +21,7 @@ hls:http://cdnh4.iblups.com/hls/irtp.m3u8
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/197_.m3u8?token=I3Q8cpDyUh5Le6JaFuIQDw&expires=1651717020&ip=191.52.213.201
 
 #EXTINF:-1 group-title="Perú",Panamericana
-rtmp://cdn1.iblups.com/panamericanatv/ptv1.m3u
+rtmp://cdn1.iblups.com/panamericanatv/ptv1
 
 #EXTINF:-1 group-title="Entretenimiento",Space
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=qi2VbQ70C7fpxfDvmH0lsw&expires=1651715549&ip=191.52.213.201
