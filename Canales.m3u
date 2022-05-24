@@ -96,20 +96,8 @@ http://195.154.179.18:8000/play/a009
 http://195.154.179.18:8000/play/a00b
 #EXTINF:-1group-title="Entretenimiento",M.ESTRENOSHD
 http://195.154.179.18:8000/play/a008
-#EXTINF:-1group-title="Entretenimiento",Premiere 2 HD
-http://191.19.212.46:4010/play/a07j/index.m3u8
-#EXTINF:-1group-title="Entretenimiento",Premiere 4
-http://191.19.212.46:4010/play/a04u/index.m3u8
-#EXTINF:-1group-title="Entretenimiento",Premiere 4 HD
-http://191.19.212.46:4010/play/a078/index.m3u8
-#EXTINF:-1group-title="Entretenimiento",Premiere 5 HD
-http://191.19.212.46:4010/play/a026/index.m3u8
-#EXTINF:-1group-title="Entretenimiento",Premiere 6
-http://191.19.212.46:4010/play/a04v/index.m3u8
-#EXTINF:-1group-title="Entretenimiento",Premiere 7
-http://191.19.212.46:4010/play/a00s/index.m3u8
-#EXTINF:-1group-title="Entretenimiento",Premiere Clubes HD
-http://191.19.212.46:4010/play/a057/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",Golden HD
+http://190.42.44.125:8000/play/a01e/index.m3u8
 
 Fox
 
