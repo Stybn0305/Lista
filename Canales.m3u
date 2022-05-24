@@ -119,6 +119,10 @@ http://45.153.165.14:8081/play/a0lu/index.m3u8
 
 group-title="Dibujos"
 
+#EXTINF:-1group-title="Dibujos",Disney Channel
+http://212.18.115.191:3549/play/a062
+#EXTINF:-1group-title="Dibujos",Disney Channel FHD
+http://212.18.115.191:3549/play/a063
 #EXTINF:-1 group-title="Dibujos",Disney
 http://45.153.165.14:8081/play/a0gy/index.m3u8
 #EXTINF:-1 group-title="Dibujos",Disney JR
