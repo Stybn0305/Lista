@@ -45,6 +45,8 @@ http://181.176.148.142:8000/play/a025
 
 group-title="Entretenimiento"
 
+Fox
+
 #EXTINF:-1 group-title="Entretenimiento",FOX
 http://45.153.165.14:8081/play/a0gz/index.m3u8
 #EXTINF:-1group-title="Entretenimiento",FOX Action HD
@@ -71,6 +73,9 @@ http://45.153.165.14:8081/play/a0ff/index.m3u8
 http://45.153.165.14:8081/play/a0fe/index.m3u8
 #EXTINF:-1group-title="Entretenimiento",FOX+MOV
 http://45.153.165.14:8081/play/a0hl/index.m3u8
+
+HBO
+
 #EXTINF:-1group-title="Entretenimiento",HBO
 http://45.153.165.14:8081/play/a0hf/index.m3u8
 #EXTINF:-1group-title="Entretenimiento",HBO Family
@@ -91,6 +96,15 @@ http://45.153.165.14:8081/play/a0hj/index.m3u8
 http://45.153.165.14:8081/play/a0hg/index.m3u8
 #EXTINF:-1group-title="Entretenimiento",HBO2 HD
 http://45.153.165.14:8081/play/a0mu/index.m3u8
+
+#EXTINF:-1group-title="Entretenimiento",SONY
+http://45.153.165.14:8081/play/a0gc/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",SONY HD
+http://45.153.165.14:8081/play/a0gs/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",SPACE
+http://45.153.165.14:8081/play/a0dn/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",SPACE HD
+http://45.153.165.14:8081/play/a0ho/index.m3u8
 
 group-title="Dibujos"
 
