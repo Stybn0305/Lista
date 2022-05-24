@@ -43,6 +43,8 @@ http://181.176.148.142:8000/play/a024
 #EXTINF:-1 group-title="Entretenimiento",CinePremium
 http://181.176.148.142:8000/play/a025
 
+group-title="Entretenimiento"
+
 #EXTINF:-1 group-title="Entretenimiento",FOX
 http://45.153.165.14:8081/play/a0gz/index.m3u8
 #EXTINF:-1group-title="Entretenimiento",FOX Action HD
@@ -61,6 +63,34 @@ http://45.153.165.14:8081/play/a0dk/index.m3u8
 http://45.153.165.14:8081/play/a0kp/index.m3u8
 #EXTINF:-1group-title="Entretenimiento",FOX SERIES
 http://45.153.165.14:8081/play/a0hk/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX+ACT
+http://45.153.165.14:8081/play/a0fd/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX+CLA
+http://45.153.165.14:8081/play/a0ff/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX+FAM
+http://45.153.165.14:8081/play/a0fe/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",FOX+MOV
+http://45.153.165.14:8081/play/a0hl/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",HBO
+http://45.153.165.14:8081/play/a0hf/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",HBO Family
+http://45.153.165.14:8081/play/a0hi/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",HBO Family HD
+http://45.153.165.14:8081/play/a0ih/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",HBO HD
+http://45.153.165.14:8081/play/a0ie/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",HBO Plus
+http://45.153.165.14:8081/play/a0hh/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",HBO Plus HD
+http://45.153.165.14:8081/play/a0mv/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",HBO XTREME
+http://45.153.165.14:8081/play/a0ii/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",HBO XTREME
+http://45.153.165.14:8081/play/a0hj/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",HBO2
+http://45.153.165.14:8081/play/a0hg/index.m3u8
+#EXTINF:-1group-title="Entretenimiento",HBO2 HD
+http://45.153.165.14:8081/play/a0mu/index.m3u8
 
 #EXTINF:-1 group-title="Dibujos",Disney
 http://45.153.165.14:8081/play/a0gy/index.m3u8
