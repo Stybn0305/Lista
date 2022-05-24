@@ -61,3 +61,58 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=r9tusFzI6MDfL
 
 #EXTINF:-1 group-title="Películas",Tomodachi
 https://gfs270n117.userstorage.mega.co.nz/dl/y6447oMaRvC8IwKTqA8k3iiNTUIqg4EcYGOoXgpIqjb8lTHdN1QQRek0heIpMADcokN80ev7Ksy0k00w049F_QMccH9q3qonZkmNtUHYnLG5TBfPhqLEVK463zDNSw/0-4194303
+
+#EXTINF:-1,RBC
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+#EXTINF:-1,CONGRESO
+http://stream.congreso.gob.pe/hls/playlist.m3u8
+#EXTINF:-1,CAPITAL
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremuxvideoCAPTV/_definst_/live.m3u8
+#EXTINF:-1,PAX
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:-1,SOL
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:0,MEGA AREQUIPA
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+#EXTINF:-1,ANTARES
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1,CTC
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:-1,TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1,TV COSMOS
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:-1,CENTRAL TV PERU
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1,BH
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1513965423.m3u8
+#EXTINF:-1, PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:0,ATV
+https://dqsz3cincv704.cloudfront.net/pe/canal_atv.smil/.m3u8
+#EXTINF:0,ATV+
+https://dqsz3cincv704.cloudfront.net/pe/atv_mas.smil/.m3u8
+#EXTINF:-1,TV PERU
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1,TV NOTICIAS 7.3
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1,IPE
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,CULTURA24
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
+#EXTINF:-1,TURBO MIX
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+#EXTINF:-1,LOGOS
+https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+#EXTINF:-1,ESPERANZA
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0, TEVE VIDA
+http://205.164.56.130:1935/francescojavier522/francescojavier522/playlist.m3u8
+#EXTINF:0,SUN
+http://hls.giize.com/aMX6smRG1b/v1.php/sunchannel/stream1/streamPlaylist.m3u8
+#EXTINF:0,GRAN CINE
+http://hls.giize.com/aMX6smRG1b/v2.php/grancine/index.m3u8
+#EXTINF:0,CORAZON
+http://hls.giize.com/aMX6smRG1b/v1.php/aztecacorazon/stream1/streamPlaylist.m3u8
+#EXTINF:0,CLIK
+http://hls.giize.com/aMX6smRG1b/v1.php/aztecaclic/stream1/streamPlaylist.m3u8
