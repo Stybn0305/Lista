@@ -212,7 +212,7 @@ http://45.153.165.14:8081/play/a0f7/index.m3u8
 
 group-title="Amazon Prime"
 
-XTINF:-1group-title="Amazon Prime",AMAZON PRIME 1 HD 
+#EXTINF:-1group-title="Amazon Prime",AMAZON PRIME 1 HD 
 http://45.90.106.7:7778/play/QmpY834j6@SkTt82H
 #EXTINF:-1group-title="Amazon Prime",AMAZON PRIME 2 HD 
 http://45.90.106.7:7778/play/HrQbR394jY3@RdnN58P
