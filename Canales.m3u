@@ -12,7 +12,7 @@ http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
 
 
 #EXTINF:-1 group-title="Perú",Latina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=t8Re2Bdp39ekBLZwm3sDvg&expires=1651731912&ip=191.52.213.201
+rtmp://flatina1livefs.fplive.net/flatina1live-live/stream1
 
 #EXTINF:-1 group-title="Perú",CanalN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/197_.m3u8?token=I3Q8cpDyUh5Le6JaFuIQDw&expires=1651717020&ip=191.52.213.201
