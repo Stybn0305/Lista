@@ -168,3 +168,12 @@ http://45.153.165.14:8081/play/a0gx/index.m3u8
 http://45.153.165.14:8081/play/a0p7/index.m3u8
 #EXTINF:-1group-title="Dibujos",Cartoon Network
 http://45.153.165.14:8081/play/a0de/index.m3u8
+
+group-title="Amazon Prime"
+
+XTINF:-1group-title="Amazon Prime",AMAZON PRIME 1 HD 
+http://45.90.106.7:7778/play/QmpY834j6@SkTt82H
+#EXTINF:-1group-title="Amazon Prime",AMAZON PRIME 2 HD 
+http://45.90.106.7:7778/play/HrQbR394jY3@RdnN58P
+#EXTINF:-1group-title="Amazon Prime",AMAZON PRIME 8 HD
+http://45.90.106.7:7778/play/WjUR843mPs2@eQm63J
