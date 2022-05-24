@@ -14,6 +14,9 @@ http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
 #EXTINF:-1 group-title="Perú",Latina
 rtmp://flatina1livefs.fplive.net/flatina1live-live/stream1.m3u
 
+#EXTINF:-1 group-title="Perú",Latina1
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
 #EXTINF:-1 group-title="Perú",CanalN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/197_.m3u8?token=I3Q8cpDyUh5Le6JaFuIQDw&expires=1651717020&ip=191.52.213.201
 
