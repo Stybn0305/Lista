@@ -28,4 +28,5 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="Perú",Congreso
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ
 
-#EXTINF:-1 group-title="Entretenimiento",
+#EXTINF:-1 group-title="Entretenimiento",AXN HD
+http://45.153.165.14:8081/play/a0pw/index.m3u8
