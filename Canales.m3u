@@ -1,8 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Perú",AmericaTV04
-https://1011-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 group-title="Perú",canal America hd | PE
+http://177.126.50.94:8000/play/a07v/index.m3u8
+http://54.39.16.47:25461/live/402980640/402980640/20220.m3u8
 
 #EXTINF:-1 group-title="Perú",AIPE
 https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -31,8 +32,8 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 #EXTINF:-1 group-title="Entretenimiento",LIBERTAD
 https://stream-04.nyc.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT
 
-#EXTINF:-1 group-title="Entretenimiento",WarnerChannel
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=BGBlj1qF6zUVI5r9ihIbkQ&expires=1651715869&ip=191.52.213.201
+#EXTINF:-1 group-title="Entretenimiento",Anime Zone TV
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Entretenimiento",TNTseries
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=Vy9S9ezwzy3lIXqVtJ6CQg&expires=1651716125&ip=191.52.213.201
