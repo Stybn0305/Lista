@@ -13,6 +13,8 @@ http://181.176.148.142:8000/play/a02p
 #EXTINF:-1 group-title="Perú",WILLAX
 http://181.176.148.142:8000/play/a01y
 #EXTINF:-1group-title="Perú",Willax HD
+#EXTINF:-1group-title="Perú",JUSTICIA TV
+http://190.42.44.125:8000/play/a00l/index.m3u8
 http://181.65.187.164:48000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Perú",AIPE
 https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -22,10 +24,24 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1group-title="Perú",TV Peru HD
 http://181.65.187.164:48000/play/a004/index.m3u8
+#EXTINF:-1group-title="Perú",TV+ HD
+http://190.42.44.125:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="Perú",Panamericana1
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1group-title="Perú",Panamericana HD
 http://181.65.187.164:48000/play/a002/index.m3u8
+#EXTINF:-1group-title="Perú",GLOBAL
+http://190.42.44.125:8000/play/a00h/index.m3u8
+#EXTINF:-1group-title="Perú",GOLPERU
+http://190.42.44.125:8000/play/a07d/index.m3u8
+#EXTINF:-1group-title="Perú",GOLPERU HD
+http://190.42.44.125:8000/play/a01p/index.m3u8
+#EXTINF:-1group-title="Perú",GolTV HD
+http://190.42.44.125:8000/play/a01j/index.m3u8
+#EXTINF:-1group-title="Perú",Movistar Deportes
+http://190.42.44.125:8000/play/a00a/index.m3u8
+#EXTINF:-1group-title="Perú",Movistar Deportes HD
+http://190.42.44.125:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Perú",France 24 Español (576p)  (News)
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
