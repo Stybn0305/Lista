@@ -14,7 +14,7 @@ https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
 #EXTINF:-1 group-title="Perú",Latina (Peru)
-https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+http://181.176.148.142:8000/play/a02p
 
 #EXTINF:-1 group-title="Perú",TVPE
 http://cdnh4.iblups.com/hls/irtp.m3u8
@@ -30,3 +30,22 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 
 #EXTINF:-1 group-title="Entretenimiento",AXN HD
 http://45.153.165.14:8081/play/a0pw/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",CineCanal
+http://181.176.148.142:8000/play/a022
+
+#EXTINF:-1 group-title="Entretenimiento",CineFamiliar
+http://181.176.148.142:8000/play/a023
+
+#EXTINF:-1 group-title="Entretenimiento",CineHispano
+http://181.176.148.142:8000/play/a024
+
+#EXTINF:-1 group-title="Entretenimiento",CinePremium
+http://181.176.148.142:8000/play/a025
+
+#EXTINF:-1 group-title="Dibujos",Disney
+http://45.153.165.14:8081/play/a0gy/index.m3u8
+#EXTINF:-1 group-title="Dibujos",Disney JR
+http://45.153.165.14:8081/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="Dibujos",Disney 😆
+http://45.153.165.14:8081/play/a0ga/index.m3u8
