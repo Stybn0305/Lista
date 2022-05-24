@@ -19,8 +19,8 @@ https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 group-title="Perú",TVPE
 http://cdnh4.iblups.com/hls/irtp.m3u8
 
-#EXTINF:-1 group-title="Perú",CanalN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/197_.m3u8?token=I3Q8cpDyUh5Le6JaFuIQDw&expires=1651717020&ip=191.52.213.201
+#EXTINF:-1 group-title="Perú",TV NOTICIAS 7.3
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 group-title="Perú",Panamericana1
 https://cdnhd.iblups.com/hls/ptv2.m3u8
